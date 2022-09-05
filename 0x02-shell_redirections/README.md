@@ -1,1 +1,1 @@
-A project that deals with learning how to redirect and use filters in shell
+A project that contains shell redirection and filters learning
